@@ -9,5 +9,7 @@ Just click the "Game List" button at the top and access all your favourite web g
 
 Want a certain game added to this site? Drop it in an issue on our [GitHub page](https://github.com/metalfoxdev/cjs-reloaded)!
 
+This site is maintained by [@metalfoxdev](https://github.com/metalfoxdev)
+
 
 Photo by Casey Horner on Unsplash
