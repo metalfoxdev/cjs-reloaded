@@ -1,5 +1,5 @@
 # Game List
-## There are currently 20 games.
+## There are currently 21 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -22,6 +22,8 @@
 [HexGL](/cjs-reloaded/hexgl)
 
 [Jelly Jump](/cjs-reloaded/jelly-jump)
+
+[Legend of Zelda: A Link to the Past](/cjs-reloaded/loz-alttp)
 
 [Madalin Stunt Cars 2](/cjs-reloaded/msc2)
 
