@@ -1,6 +1,6 @@
 # Game List
 ## There are currently 2 games.
 
-[HexGL](/hexgl)
+[HexGL](/cjs-reloaded/hexgl)
 
-[Madalin Stunt Cars 2](/msc2)
+[Madalin Stunt Cars 2](/cjs-reloaded/msc2)
