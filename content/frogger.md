@@ -1,5 +1,5 @@
 ---
-title: Frogger
+title: 'Frogger'
 slug: frogger
 ---
 

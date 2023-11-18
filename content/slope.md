@@ -1,5 +1,5 @@
 ---
-title: Slope
+title: 'Slope'
 slug: slope
 ---
 

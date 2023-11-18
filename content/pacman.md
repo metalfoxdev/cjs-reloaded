@@ -1,5 +1,5 @@
 ---
-title: Pac-Man
+title: 'Pac-Man'
 slug: pacman
 ---
 

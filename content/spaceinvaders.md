@@ -1,5 +1,5 @@
 ---
-title: Space Invaders
+title: 'Space Invaders'
 slug: spaceinvaders
 ---
 

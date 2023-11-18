@@ -1,5 +1,5 @@
 ---
-title: Madalin Stunt Cars 2
+title: 'Madalin Stunt Cars 2'
 slug: msc2
 ---
 

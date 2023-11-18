@@ -1,5 +1,5 @@
 ---
-title: Run 3
+title: 'Run 3'
 slug: run3
 ---
 

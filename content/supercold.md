@@ -1,5 +1,5 @@
 ---
-title: Supercold
+title: 'Supercold'
 slug: supercold
 ---
 
