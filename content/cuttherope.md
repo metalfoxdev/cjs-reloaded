@@ -1,5 +1,5 @@
 ---
-title: 'Cut the Rope'
+title: "Cut the Rope"
 slug: cuttherope
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Astray'
+title: "Astray"
 slug: astray
 ---
 

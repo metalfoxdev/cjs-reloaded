@@ -1,5 +1,5 @@
 ---
-title: 'Chrome Dino'
+title: "Chrome Dino"
 slug: chromedino
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'HexGL'
+title: "HexGL"
 slug: hexgl
 ---
 
