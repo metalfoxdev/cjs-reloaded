@@ -1,5 +1,5 @@
 title = "CoolJS Reloaded"
-baseURL = "https://metalfoxdev.github.io/cjs-reloaded/"
+baseURL = "https://example.org"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
