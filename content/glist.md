@@ -1,5 +1,5 @@
 # Game List
-## There are currently 17 games.
+## There are currently 18 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -26,6 +26,8 @@
 [Pac-Man](/cjs-reloaded/pacman)
 
 [Run 3](/cjs-reloaded/run3)
+
+[Scratchy's Adventure 2](/cjs-reloaded/scratchys-adventure-2)
 
 [Scratchy's Adventure](/cjs-reloaded/scratchys-adventure)
 
