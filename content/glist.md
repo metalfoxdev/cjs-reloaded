@@ -1,11 +1,13 @@
 # Game List
-## There are currently 15 games.
+## There are currently 16 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
 [2048](/cjs-reloaded/2048)
 
 [Astray](/cjs-reloaded/astray)
+
+[Backfire](/cjs-reloaded/backfire)
 
 [Chrome Dino](/cjs-reloaded/chromedino)
 
