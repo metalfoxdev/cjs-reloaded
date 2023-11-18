@@ -1,3 +1,0 @@
-[submodule "static/gfiles"]
-	path = static/gfiles
-	url = https://github.com/metalfoxdev/cjs-garchive.git
