@@ -10,8 +10,8 @@ md_out = ""
 game_count = 0
 mode = input("[1] Normal Build\n[2] GitHub Pages")
 
-def sub(fname, slug):
-    return '---\ntitle: "' + str(fname) + '"\nslug: ' + str(slug) + "\n---\n\n{{< noscroll >}}\n{{< rawhtml >}}\n" + '<iframe width="720" height="576" name="iframe" src="/cjs-garchive/' + str(slug) + '/index.html"></iframe>\n{{< /rawhtml >}}\n\n[Click here to play fullscreen](/cjs-garchive/' + str(slug) + ")"
+def sub(fname, slug, desc):
+    return '---\ntitle: "' + str(fname) + '"\nslug: ' + str(slug) + "\n---\n\n{{< noscroll >}}\n{{< rawhtml >}}\n" + '<iframe width="720" height="576" name="iframe" src="/cjs-garchive/' + str(slug) + '/index.html"></iframe>\n{{< /rawhtml >}}\n\n[Click here to play fullscreen](/cjs-garchive/' + str(slug) + ")\n\n" + desc
 
 print("Scanning games...")
 
@@ -26,9 +26,11 @@ for _dir in os.listdir(os.path.join("static", "cjs-garchive")):
             else:
                 md_data.append("[" + f.readline().strip() + "](" + "/cjs-reloaded/" + _dir + ")")
             f = open(os.path.join("static", "cjs-garchive", _dir, "GLISTNAME"), "r")
+            f2 = open(os.path.join("static", "cjs-garchive", _dir, "GDESC"))
             md = open(os.path.join("content", _dir + ".md"), "w")
-            md.write(sub(f.readline().strip(), _dir))
+            md.write(sub(f.readline().strip(), _dir, f2.read()))
             md.close()
+            f2.close()
             game_count += 1
         except FileNotFoundError:
             print("WARNING: GLISTNAME not found in the '" + _dir + "' directory")

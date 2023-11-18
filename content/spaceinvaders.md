@@ -9,3 +9,5 @@ slug: spaceinvaders
 {{< /rawhtml >}}
 
 [Click here to play fullscreen](/cjs-garchive/spaceinvaders)
+
+The classic recreated in HTML5!

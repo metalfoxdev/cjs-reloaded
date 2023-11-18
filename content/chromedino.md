@@ -9,3 +9,5 @@ slug: chromedino
 {{< /rawhtml >}}
 
 [Click here to play fullscreen](/cjs-garchive/chromedino)
+
+Controls: Use SPACE, up arrow or click to jump

@@ -9,3 +9,6 @@ slug: frogger
 {{< /rawhtml >}}
 
 [Click here to play fullscreen](/cjs-garchive/frogger)
+
+Frogger is a classic arcade game. Control the frog over hazardous roads and rivers to reach the other side. Rinse and repeat. This newer version features updated graphics but remains largely the same as the original Frogger
+Controls: Use the arrow keys to move the frog

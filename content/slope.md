@@ -9,3 +9,5 @@ slug: slope
 {{< /rawhtml >}}
 
 [Click here to play fullscreen](/cjs-garchive/slope)
+
+Controls: Arrow keys or A/D to move

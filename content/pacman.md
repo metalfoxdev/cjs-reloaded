@@ -9,3 +9,5 @@ slug: pacman
 {{< /rawhtml >}}
 
 [Click here to play fullscreen](/cjs-garchive/pacman)
+
+The classic recreated in HTML5 Canvas!

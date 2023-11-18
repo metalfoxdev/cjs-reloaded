@@ -9,3 +9,5 @@ slug: ctrtimetravel
 {{< /rawhtml >}}
 
 [Click here to play fullscreen](/cjs-garchive/ctrtimetravel)
+
+Cut the rope and collect stars in different ages. Have fun with Cut the Rope Time Travel!

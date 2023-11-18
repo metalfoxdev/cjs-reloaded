@@ -9,3 +9,5 @@ slug: msc2
 {{< /rawhtml >}}
 
 [Click here to play fullscreen](/cjs-garchive/msc2)
+
+Madalin Stunt Cars 2 is a 3D stunt driving game featuring some of the world’s most powerful cars. Jump behind the wheel of your favorite automobile and race around one of the three expansive maps. You can invite your friends to play in any of the online multiplayer servers to share the high-octane thrill. 

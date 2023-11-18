@@ -1,5 +1,5 @@
 # Game List
-## There are currently 19 games.
+## There are currently 20 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -20,6 +20,8 @@
 [Frogger](/cjs-reloaded/frogger)
 
 [HexGL](/cjs-reloaded/hexgl)
+
+[Jelly Jump](/cjs-reloaded/jelly-jump)
 
 [Madalin Stunt Cars 2](/cjs-reloaded/msc2)
 

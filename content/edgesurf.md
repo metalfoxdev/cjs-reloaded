@@ -9,3 +9,5 @@ slug: edgesurf
 {{< /rawhtml >}}
 
 [Click here to play fullscreen](/cjs-garchive/edgesurf)
+
+Controls: Use arrow keys to go left and right

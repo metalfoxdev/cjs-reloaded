@@ -9,3 +9,5 @@ slug: run3
 {{< /rawhtml >}}
 
 [Click here to play fullscreen](/cjs-garchive/run3)
+
+Controls: Arrow keys for movement and jump. You can also use WASD

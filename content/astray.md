@@ -9,3 +9,6 @@ slug: astray
 {{< /rawhtml >}}
 
 [Click here to play fullscreen](/cjs-garchive/astray)
+
+A WebGL maze game built with Three.js and Box2dWeb
+Controls: Use arrow keys to move the ball

@@ -9,3 +9,6 @@ slug: supercold
 {{< /rawhtml >}}
 
 [Click here to play fullscreen](/cjs-garchive/supercold)
+
+A simple 2D HTML5 game with the clever mechanics of SUPERHOT.
+Controls are in-game.

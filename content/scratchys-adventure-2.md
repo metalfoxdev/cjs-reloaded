@@ -9,3 +9,14 @@ slug: scratchys-adventure-2
 {{< /rawhtml >}}
 
 [Click here to play fullscreen](/cjs-garchive/scratchys-adventure-2)
+
+» Use WASD or arrow keys to move.
+» Use the mobile joystick it you are on a mobile.
+» Avoid spikes and lava!
+» Collect fish! 
+» Don't get smashed by the smasher!
+» Use the moving platform to move to another place.
+» Squish the slimes!
+» Collect keys to open doors.
+» There are BIG FISH! Collect them! A big fish is equals 
+   to 5 small fishs.

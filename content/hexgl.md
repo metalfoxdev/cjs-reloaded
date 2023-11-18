@@ -9,3 +9,6 @@ slug: hexgl
 {{< /rawhtml >}}
 
 [Click here to play fullscreen](/cjs-garchive/hexgl)
+
+HexGL is a futuristic, fast-paced racing game built by Thibaut Despoulain using HTML5, Javascript and WebGL and a tribute to the original Wipeout and F-Zero series.
+Controls are shown in-game.
