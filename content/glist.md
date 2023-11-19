@@ -1,5 +1,5 @@
 # Game List
-## There are currently 32 games.
+## There are currently 33 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -10,6 +10,8 @@
 [Backfire](/cjs-reloaded/backfire)
 
 [Chrome Dino](/cjs-reloaded/chromedino)
+
+[Crash Nitro Kart](/cjs-reloaded/cnk)
 
 [Cut the Rope: Time Travel](/cjs-reloaded/ctrtimetravel)
 
