@@ -1,5 +1,5 @@
 # Game List
-## There are currently 24 games.
+## There are currently 25 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -26,6 +26,8 @@
 [Legend of Zelda: A Link to the Past](/cjs-reloaded/loz-alttp)
 
 [Madalin Stunt Cars 2](/cjs-reloaded/msc2)
+
+[Mario Pinball Land](/cjs-reloaded/m-pinball)
 
 [Microsoft Edge Surf](/cjs-reloaded/edgesurf)
 
