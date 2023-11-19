@@ -1,5 +1,5 @@
 # Game List
-## There are currently 28 games.
+## There are currently 29 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -16,6 +16,8 @@
 [Cut the Rope](/cjs-reloaded/cuttherope)
 
 [Doodle Cricket](/cjs-reloaded/doodle-cricket)
+
+[Dr. Mario + Puzzle League](/cjs-reloaded/dr-m-puzzle-league)
 
 [Frogger](/cjs-reloaded/frogger)
 
