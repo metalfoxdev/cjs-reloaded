@@ -1,5 +1,5 @@
 # Game List
-## There are currently 26 games.
+## There are currently 27 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -26,6 +26,8 @@
 [Legend of Zelda: A Link to the Past](/cjs-reloaded/loz-alttp)
 
 [Madalin Stunt Cars 2](/cjs-reloaded/msc2)
+
+[Mario Kart: Super Circuit](/cjs-reloaded/mk-super-circuit)
 
 [Mario Party Advance](/cjs-reloaded/m-party-advance)
 
