@@ -1,5 +1,5 @@
 # Game List
-## There are currently 21 games.
+## There are currently 22 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -42,3 +42,5 @@
 [Space Invaders](/cjs-reloaded/spaceinvaders)
 
 [Supercold](/cjs-reloaded/supercold)
+
+[WarioWare: Mega Microgames!](/cjs-reloaded/ww-mm)
