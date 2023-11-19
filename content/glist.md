@@ -1,5 +1,5 @@
 # Game List
-## There are currently 23 games.
+## There are currently 24 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -30,6 +30,8 @@
 [Microsoft Edge Surf](/cjs-reloaded/edgesurf)
 
 [Pac-Man](/cjs-reloaded/pacman)
+
+[Pokemon: Sapphire Version](/cjs-reloaded/p-sapphire)
 
 [Run 3](/cjs-reloaded/run3)
 
