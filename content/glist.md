@@ -1,5 +1,5 @@
 # Game List
-## There are currently 34 games.
+## There are currently 35 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -8,6 +8,8 @@
 [Astray](/cjs-reloaded/astray)
 
 [Backfire](/cjs-reloaded/backfire)
+
+[Bubble Bobble: Old and New](/cjs-reloaded/bobble-oldandnew)
 
 [Chrome Dino](/cjs-reloaded/chromedino)
 
