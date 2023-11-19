@@ -3,7 +3,7 @@ featured_image: '/images/casey-horner-9vf1uj6i6Ww-unsplash.jpg'
 ---
 
 ## Welcome to CoolJS Reloaded
-Here you will find a collection of web games that you can play right now!
+*It's back from the dead.*
 
 Just click the "Game List" button at the top and access all your favourite web games.
 
