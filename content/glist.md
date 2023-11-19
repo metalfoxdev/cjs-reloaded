@@ -1,5 +1,5 @@
 # Game List
-## There are currently 22 games.
+## There are currently 23 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -40,6 +40,8 @@
 [Slope](/cjs-reloaded/slope)
 
 [Space Invaders](/cjs-reloaded/spaceinvaders)
+
+[Super Mario Advance](/cjs-reloaded/sm-advance)
 
 [Supercold](/cjs-reloaded/supercold)
 
