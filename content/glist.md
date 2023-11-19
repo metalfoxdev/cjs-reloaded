@@ -1,5 +1,5 @@
 # Game List
-## There are currently 29 games.
+## There are currently 32 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -14,6 +14,12 @@
 [Cut the Rope: Time Travel](/cjs-reloaded/ctrtimetravel)
 
 [Cut the Rope](/cjs-reloaded/cuttherope)
+
+[Donkey Kong Country 2](/cjs-reloaded/dk-country-2)
+
+[Donkey Kong Country 3](/cjs-reloaded/dk-country-3)
+
+[Donkey Kong Country](/cjs-reloaded/dk-country-1)
 
 [Doodle Cricket](/cjs-reloaded/doodle-cricket)
 
