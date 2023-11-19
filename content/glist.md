@@ -1,5 +1,5 @@
 # Game List
-## There are currently 36 games.
+## There are currently 40 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -53,6 +53,12 @@
 
 [Microsoft Edge Surf](/cjs-reloaded/edgesurf)
 
+[Microsoft Minesweeper](/cjs-reloaded/ms-minesweeper)
+
+[Microsoft Solitaire](/cjs-reloaded/ms-solitaire)
+
+[Microsoft Sudoku](/cjs-reloaded/ms-sudoku)
+
 [Pac-Man](/cjs-reloaded/pacman)
 
 [Pokemon: Sapphire Version](/cjs-reloaded/p-sapphire)
@@ -70,5 +76,7 @@
 [Super Mario Advance](/cjs-reloaded/sm-advance)
 
 [Supercold](/cjs-reloaded/supercold)
+
+[Temple Run 2](/cjs-reloaded/templerun2)
 
 [WarioWare: Mega Microgames!](/cjs-reloaded/ww-mm)
