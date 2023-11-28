@@ -1,1 +1,5 @@
-[Site Icon](/static/images/icon.png)# CoolJS Reloaded
+![Site Icon](/static/images/banner_small.png)
+# CoolJS Reloaded
+
+Cool Features:
+: ddwdw
