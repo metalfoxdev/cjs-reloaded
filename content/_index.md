@@ -1,7 +1,9 @@
 ---
 featured_image: 'static/images/HeroImage.jpg'
 ---
-
+ <div class="homepage-image">
+       <img src="/images/HeroImage.png">
+ </div>
 ## Welcome to CoolJS Reloaded
 *It's back from the dead.*
 
