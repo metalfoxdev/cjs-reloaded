@@ -1,5 +1,5 @@
 ---
-featured_image: '/images/HeroImage.jpg'
+featured_image: 'static/images/HeroImage.jpg'
 ---
 
 ## Welcome to CoolJS Reloaded
