@@ -7,7 +7,7 @@ featured_image: '/images/casey-horner-9vf1uj6i6Ww-unsplash.jpg'
 
 Have a suggestion for this site? Drop it in an issue on our [GitHub page](https://github.com/metalfoxdev/cjs-reloaded)!
 
-This site is maintained by [@metalfoxdev](https://github.com/metalfoxdev)
+This site is maintained by [@metalfoxdev](https://github.com/metalfoxdev) and [@thatoneham](https://github.com/thatoneham)
 
 
 Photo by Casey Horner on Unsplash
