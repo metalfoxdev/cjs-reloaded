@@ -1,5 +1,5 @@
 ---
-featured_image: '/images/casey-horner-9vf1uj6i6Ww-unsplash.jpg'
+featured_image: '/images/HeroImage.jpg'
 ---
 
 ## Welcome to CoolJS Reloaded
