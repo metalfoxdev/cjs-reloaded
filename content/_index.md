@@ -1,5 +1,5 @@
 
-![HeroImage](/images/HeroImage.png)
+![HeroImage](images/banner_small.png)
 
  ## Welcome to CoolJS Reloaded
  *It's back from the dead. And we ain't goin down*
