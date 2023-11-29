@@ -1,7 +1,7 @@
 ---
  featured_image: 'images/HeroImage.jpg'
 ---
-{{< rawhtml >}}
+{{<rawhtml>}}
 <div class="homepage-image" style="text-align: center;">
        <img src="/images/HeroImage.png" style="max-width: 100%; height: auto;">
 </div>
