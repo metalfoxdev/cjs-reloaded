@@ -2,7 +2,7 @@
  featured_image: 'images/HeroImage.jpg'
 ---
 
-![HeroImage](/images/HeroImage.png)
+![HeroImage](static/images/HeroImage.png)
 
  ## Welcome to CoolJS Reloaded
  *It's back from the dead. And we ain't goin down*
