@@ -1,6 +1,3 @@
----
- featured_image: 'images/HeroImage.jpg'
----
 
 ![HeroImage](static/images/HeroImage.png)
 
