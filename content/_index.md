@@ -1,11 +1,9 @@
 ---
  featured_image: 'images/HeroImage.jpg'
 ---
-{{<rawhtml>}}
-<div class="homepage-image" style="text-align: center;">
-       <img src="/images/HeroImage.png" style="max-width: 100%; height: auto;">
-</div>
-{{</rawhtml >}}
+
+![HeroImage](/images/HeroImage.png)
+
  ## Welcome to CoolJS Reloaded
  *It's back from the dead. And we ain't goin down*
 
