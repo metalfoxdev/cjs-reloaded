@@ -1,5 +1,5 @@
 
-![Site Icon](/static/images/heroimage.png)
+![Site Icon](/static/images/banner.png)
 
  ## Welcome to CoolJS Reloaded
  *It's back from the dead. And we ain't goin down*
