@@ -9,4 +9,4 @@ CoolJS Reloaded is a remake of the original  CoolJS (which was made in Google Si
 
 - Simple and Easy UI
 - Open-source so you can host yourself
-- 
+- Loads of games
