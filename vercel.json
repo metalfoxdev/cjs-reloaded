@@ -1,7 +1,7 @@
 {
   "builds": [
     {
-      "src": "site/*",
+      "src": "*",
       "use": "@vercel/static-build",
       "config": {
         "hugo": "0.121.1"
