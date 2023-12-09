@@ -4,6 +4,7 @@ Description: Generates a list of games in MD format based on the GLISTNAME files
 Author: github.com/metalfoxdev
 """
 import os
+import sys
 
 md_data = []
 md_out = ""
