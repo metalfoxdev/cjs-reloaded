@@ -1,5 +1,5 @@
 # Game List
-## There are currently 28 games.
+## There are currently 31 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -29,7 +29,13 @@
 
 [Hextris](/cjs-reloaded/hextris)
 
+[Hill Climb Racing](/cjs-reloaded/hcr)
+
+[Iron Dash](/cjs-reloaded/i-dash)
+
 [Jelly Jump](/cjs-reloaded/jelly-jump)
+
+[Jetpack Joyride](/cjs-reloaded/j-j)
 
 [Madalin Stunt Cars 2](/cjs-reloaded/msc2)
 
