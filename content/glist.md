@@ -1,5 +1,5 @@
 # Game List
-## There are currently 26 games.
+## There are currently 25 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -36,8 +36,6 @@
 [Microsoft Solitaire](/cjs-reloaded/ms-solitaire)
 
 [Microsoft Sudoku](/cjs-reloaded/ms-sudoku)
-
-[Pac-Man](/cjs-reloaded/pacman)
 
 [Run 3](/cjs-reloaded/run3)
 
