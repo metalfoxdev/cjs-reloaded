@@ -1,5 +1,5 @@
 # Game List
-## There are currently 25 games.
+## There are currently 28 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -19,11 +19,15 @@
 
 [Doodle Cricket](/cjs-reloaded/doodle-cricket)
 
+[Fried Chicken Clicker V2](/cjs-reloaded/fcc)
+
 [Frogger](/cjs-reloaded/frogger)
 
 [Getaway Shootout](/cjs-reloaded/ga-s)
 
 [HexGL](/cjs-reloaded/hexgl)
+
+[Hextris](/cjs-reloaded/hextris)
 
 [Jelly Jump](/cjs-reloaded/jelly-jump)
 
@@ -48,5 +52,7 @@
 [Space Invaders](/cjs-reloaded/spaceinvaders)
 
 [Supercold](/cjs-reloaded/supercold)
+
+[Tanuki Sunset](/cjs-reloaded/ts)
 
 [Temple Run 2](/cjs-reloaded/templerun2)
