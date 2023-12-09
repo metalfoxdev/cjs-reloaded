@@ -1,0 +1,11 @@
+{
+  "builds": [
+    {
+      "src": "site/*",
+      "use": "@vercel/static-build",
+      "config": {
+        "hugo": "0.121.1"
+      }
+    }
+  ]
+}
