@@ -22,7 +22,6 @@ def allowed(file):
     else:
         return True
 
-
 print("Scanning games...")
 
 for _dir in os.listdir(os.path.join("static", "cjs-garchive")):
