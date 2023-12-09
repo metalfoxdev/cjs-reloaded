@@ -1,0 +1,8 @@
+{
+  "name": "cjs-reloaded",
+  "version": "1.0.0",
+  "scripts": {},
+  "dependencies": {
+    "python": ">=3.0.0"
+  }
+}
