@@ -1,4 +1,4 @@
-![Hero Image](cjs-reloaded/static/images/banner_small.png)
+![Hero Image](heroimage.png)
 
 ## Welcome to CoolJS Reloaded
 *It's back from the dead. And we ain't goin down*
