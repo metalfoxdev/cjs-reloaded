@@ -1,0 +1,21 @@
+<script>
+  window.addEventListener("DOMContentLoaded", function () {
+    encryptAllContent();
+  });
+
+  function encryptAllContent() {
+    var originalContentElements = document.getElementsByClassName("originalContent");
+
+    for (var i = 0; i < originalContentElements.length; i++) {
+      var originalContent = originalContentElements[i].value;
+      var encryptedContent = btoa(originalContent);
+      originalContentElements[i].value = encryptedContent;
+    }
+  }
+
+  function decryptContent() {
+    var encryptedContent = document.getElementById("encryptedContent").value;
+    var decryptedContent = atob(encryptedContent);
+    document.getElementById("originalContent").value = decryptedContent;
+  }
+</script>
