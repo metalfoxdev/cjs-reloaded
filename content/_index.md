@@ -1,4 +1,4 @@
-![Hero Image](images/hero-image.jpg)
+![Hero Image](static/images/hero-image.jpg)
 
 ## Welcome to CoolJS Reloaded
 *It's back from the dead. And we ain't goin down*
