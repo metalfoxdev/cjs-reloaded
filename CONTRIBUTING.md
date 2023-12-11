@@ -1,4 +1,4 @@
-# Contributing Games
+# Contributing Games to our Games repo
 
 1. Find a game (the folder normally consists of HTML and JS files)
 2. Test the game by opening a terminal inside your game folder, making sure you have python3 installed, run ```python3 -m http.server 8000``` and open ```localhost:8000``` in a web browser, make sure the game functions as expected.
