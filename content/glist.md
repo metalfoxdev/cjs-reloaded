@@ -1,4 +1,3 @@
-{{ partial "encryption.html" . }}
 # Game List
 ## There are currently 31 games.
 
