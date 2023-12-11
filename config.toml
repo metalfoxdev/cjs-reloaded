@@ -1,5 +1,5 @@
 title = "CoolJS Reloaded"
-baseURL = "https://example.org"
+baseURL = "/"
 languageCode = "en-us"
 theme = "CoolMod"
 resourceDir = "../resources"
