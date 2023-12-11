@@ -3,7 +3,7 @@ import os
 
 def encode_html_files(directory):
     for filename in os.listdir(directory):
-        if filename.endswith('.html'):
+        if filename.endswith('.md'):
             input_file = os.path.join(directory, filename)
             output_file = os.path.join(directory, f'encoded_{filename}')
 
@@ -24,7 +24,7 @@ def encode_html_files(directory):
                     </script>
                 </body>
                 </html>
-            '''.format(encoded_html)
+            '''.format(encoded_md)
 
             with open(output_file, 'w') as file:
                 file.write(wrapped_html)
