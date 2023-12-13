@@ -1,5 +1,5 @@
 # Game List
-## There are currently 33 games.
+## There are currently 34 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -18,6 +18,8 @@
 [Cut the Rope: Time Travel](/cjs-reloaded/ctrtimetravel)
 
 [Cut the Rope](/cjs-reloaded/cuttherope)
+
+[Doge Miner 2](/cjs-reloaded/dm2)
 
 [Doodle Cricket](/cjs-reloaded/doodle-cricket)
 
@@ -61,8 +63,8 @@
 
 [Supercold](/cjs-reloaded/supercold)
 
-[T run](/cjs-reloaded/tr)
-
 [Temple Run 2](/cjs-reloaded/templerun2)
+
+[Tunnel Run](/cjs-reloaded/tr)
 
 [raccon skate board](/cjs-reloaded/ts)
