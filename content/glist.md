@@ -3,9 +3,11 @@
 
 [0hh1](/cjs-reloaded/0hh1)
 
-[1v1 geam :)](/cjs-reloaded/1v.l)
+[1v.l](/cjs-reloaded/1v.l)
 
 [2048](/cjs-reloaded/2048)
+
+[<<<<<<< HEAD](/cjs-reloaded/tr)
 
 [Astray](/cjs-reloaded/astray)
 
@@ -64,7 +66,5 @@
 [Supercold](/cjs-reloaded/supercold)
 
 [Temple Run 2](/cjs-reloaded/templerun2)
-
-[Tunnel Run](/cjs-reloaded/tr)
 
 [raccon skate board](/cjs-reloaded/ts)
