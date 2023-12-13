@@ -1,5 +1,5 @@
 ---
-title: "T rush"
+title: "T run"
 slug: tr
 ---
 
@@ -10,4 +10,4 @@ slug: tr
 
 [Click here to play fullscreen](/cjs-garchive/tr)
 
-run or u ded hehehe
+for my guy josh

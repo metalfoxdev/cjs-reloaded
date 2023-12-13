@@ -61,7 +61,7 @@
 
 [Supercold](/cjs-reloaded/supercold)
 
-[T rush](/cjs-reloaded/tr)
+[T run](/cjs-reloaded/tr)
 
 [Temple Run 2](/cjs-reloaded/templerun2)
 
