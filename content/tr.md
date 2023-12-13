@@ -1,5 +1,5 @@
 ---
-title: "<<<<<<< HEAD"
+title: "T rush"
 slug: tr
 ---
 
