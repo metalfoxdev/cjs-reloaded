@@ -1,6 +1,6 @@
 ---
-title: "Doge m 2"
-slug: DM2
+title: "dog mine"
+slug: dm2
 ---
 
 {{< noscroll >}}
