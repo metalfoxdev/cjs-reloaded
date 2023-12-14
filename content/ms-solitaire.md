@@ -8,6 +8,6 @@ slug: ms-solitaire
 <iframe width="720" height="576" name="iframe" src="/cjs-garchive/ms-solitaire/index.html"></iframe>
 {{< /rawhtml >}}
 
-[Click here to play fullscreen](/cjs-garchive/ms-solitaire)
+[Click here to play fullscreen](/cjs-garchive/ms-solitaire/index.html)
 
 The iconic classic!

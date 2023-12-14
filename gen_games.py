@@ -12,8 +12,7 @@ game_count = 0
 mode = sys.argv[1].strip()
 
 def sub(fname, slug, desc):
-    return '---\ntitle: "' + str(fname) + '"\nslug: ' + str(slug) + "\n---\n\n{{< noscroll >}}\n{{< rawhtml >}}\n" + '<iframe width="720" height="576" name="iframe" src="/cjs-garchive/' + str(slug) + '/index.html"></iframe>\n{{< /rawhtml >}}\n\n[Click here to play fullscreen](/cjs-garchive/' + str(slug) + ")\n\n" + desc
-
+    return '---\ntitle: "' + str(fname) + '"\nslug: ' + str(slug) + "\n---\n\n{{< noscroll >}}\n{{< rawhtml >}}\n" + '<iframe width="720" height="576" name="iframe" src="/cjs-garchive/' + str(slug) + '/index.html"></iframe>\n{{< /rawhtml >}}\n\n[Click here to play fullscreen](/cjs-garchive/' + str(slug) + '/index.html)\n\n' + desc
 def allowed(file):
     if _dir == ".git":
         return False

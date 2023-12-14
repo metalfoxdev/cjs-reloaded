@@ -8,6 +8,6 @@ slug: edgesurf
 <iframe width="720" height="576" name="iframe" src="/cjs-garchive/edgesurf/index.html"></iframe>
 {{< /rawhtml >}}
 
-[Click here to play fullscreen](/cjs-garchive/edgesurf)
+[Click here to play fullscreen](/cjs-garchive/edgesurf/index.html)
 
 Controls: Use arrow keys to go left and right

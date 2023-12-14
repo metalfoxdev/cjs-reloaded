@@ -8,6 +8,6 @@ slug: tempr2
 <iframe width="720" height="576" name="iframe" src="/cjs-garchive/tempr2/index.html"></iframe>
 {{< /rawhtml >}}
 
-[Click here to play fullscreen](/cjs-garchive/tempr2)
+[Click here to play fullscreen](/cjs-garchive/tempr2/index.html)
 
 The iconic classic!

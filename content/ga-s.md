@@ -8,7 +8,7 @@ slug: ga-s
 <iframe width="720" height="576" name="iframe" src="/cjs-garchive/ga-s/index.html"></iframe>
 {{< /rawhtml >}}
 
-[Click here to play fullscreen](/cjs-garchive/ga-s)
+[Click here to play fullscreen](/cjs-garchive/ga-s/index.html)
 
 Getaway Shooter is a chaotic two-player game where you race three others to the extraction point.
 You can only move by jumping left or right, which makes the race a little tricky! Pick up guns and other weapons along the way to use against the others!

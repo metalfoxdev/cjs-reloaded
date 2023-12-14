@@ -8,6 +8,6 @@ slug: i-dash
 <iframe width="720" height="576" name="iframe" src="/cjs-garchive/i-dash/index.html"></iframe>
 {{< /rawhtml >}}
 
-[Click here to play fullscreen](/cjs-garchive/i-dash)
+[Click here to play fullscreen](/cjs-garchive/i-dash/index.html)
 
 Geometry Dash with a twist!

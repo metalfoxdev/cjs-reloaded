@@ -8,7 +8,7 @@ slug: fcc
 <iframe width="720" height="576" name="iframe" src="/cjs-garchive/fcc/index.html"></iframe>
 {{< /rawhtml >}}
 
-[Click here to play fullscreen](/cjs-garchive/fcc)
+[Click here to play fullscreen](/cjs-garchive/fcc/index.html)
 
 Fried Chicken Clicker!
 The first person to click chicken universe is @mikey100000!
