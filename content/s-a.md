@@ -1,14 +1,14 @@
 ---
 title: "Scratchy's Adventure"
-slug: scratchys-adventure
+slug: s-a
 ---
 
 {{< noscroll >}}
 {{< rawhtml >}}
-<iframe width="720" height="576" name="iframe" src="/cjs-garchive/scratchys-adventure/index.html"></iframe>
+<iframe width="720" height="576" name="iframe" src="/cjs-garchive/s-a/index.html"></iframe>
 {{< /rawhtml >}}
 
-[Click here to play fullscreen](/cjs-garchive/scratchys-adventure)
+[Click here to play fullscreen](/cjs-garchive/s-a)
 
 » Use WASD or arrow keys to move.
 » Use the mobile joystick it you are on a mobile.

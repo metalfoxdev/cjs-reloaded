@@ -1,5 +1,5 @@
 # Game List
-## There are currently 33 games.
+## There are currently 34 games.
 
 [0hh1](/cjs-reloaded/0hh1)
 
@@ -11,23 +11,21 @@
 
 [Backfire](/cjs-reloaded/backfire)
 
-[Chrome Dino](/cjs-reloaded/chromedino)
-
-[Cookie Clicker](/cjs-reloaded/cookiec)
+[Chrome Dino](/cjs-reloaded/cdino)
 
 [Cut the Rope: Time Travel](/cjs-reloaded/ctrtimetravel)
 
-[Cut the Rope](/cjs-reloaded/cuttherope)
+[Cut the Rope](/cjs-reloaded/ctr)
 
-[Doodle Cricket](/cjs-reloaded/doodle-cricket)
+[Doodle Cricket](/cjs-reloaded/dcricket)
 
 [Fried Chicken Clicker V2](/cjs-reloaded/fcc)
 
-[Frogger](/cjs-reloaded/frogger)
+[Frogger](/cjs-reloaded/frog)
 
 [Getaway Shootout](/cjs-reloaded/ga-s)
 
-[HexGL](/cjs-reloaded/hexgl)
+[HexGL](/cjs-reloaded/hgl)
 
 [Hextris](/cjs-reloaded/hextris)
 
@@ -35,7 +33,7 @@
 
 [Iron Dash](/cjs-reloaded/i-dash)
 
-[Jelly Jump](/cjs-reloaded/jelly-jump)
+[Jelly Jump](/cjs-reloaded/jelly-j)
 
 [Jetpack Joyride](/cjs-reloaded/j-j)
 
@@ -49,20 +47,24 @@
 
 [Microsoft Sudoku](/cjs-reloaded/ms-sudoku)
 
-[Run 3](/cjs-reloaded/run3)
+[Motor 3](/cjs-reloaded/m3)
 
-[Scratchy's Adventure 2](/cjs-reloaded/scratchys-adventure-2)
+[Run 3](/cjs-reloaded/r3)
 
-[Scratchy's Adventure](/cjs-reloaded/scratchys-adventure)
+[Scratchy's Adventure 2](/cjs-reloaded/s-a-2)
 
-[Slope](/cjs-reloaded/slope)
+[Scratchy's Adventure](/cjs-reloaded/s-a)
 
-[Space Invaders](/cjs-reloaded/spaceinvaders)
+[Slope](/cjs-reloaded/sl)
 
-[Supercold](/cjs-reloaded/supercold)
+[Space Invaders](/cjs-reloaded/si)
 
-[T rush](/cjs-reloaded/tr)
+[Supercold](/cjs-reloaded/sc)
 
-[Temple Run 2](/cjs-reloaded/templerun2)
+[T rush](/cjs-reloaded/tunru)
 
-[raccon skate board](/cjs-reloaded/ts)
+[Tanuki Sunset](/cjs-reloaded/ts)
+
+[Temple Run 2](/cjs-reloaded/tempr2)
+
+[exo](/cjs-reloaded/e)

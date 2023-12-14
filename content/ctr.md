@@ -1,14 +1,14 @@
 ---
 title: "Cut the Rope"
-slug: cuttherope
+slug: ctr
 ---
 
 {{< noscroll >}}
 {{< rawhtml >}}
-<iframe width="720" height="576" name="iframe" src="/cjs-garchive/cuttherope/index.html"></iframe>
+<iframe width="720" height="576" name="iframe" src="/cjs-garchive/ctr/index.html"></iframe>
 {{< /rawhtml >}}
 
-[Click here to play fullscreen](/cjs-garchive/cuttherope)
+[Click here to play fullscreen](/cjs-garchive/ctr)
 
 Cut the Rope to feed large pieces of candy to a hungry creature called Om Nom. Collect all the stars for the highest rating and progress to more challenging levels with new puzzles.
 
